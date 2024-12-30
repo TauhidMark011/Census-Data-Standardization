@@ -1,7 +1,7 @@
 # Census-Data-Standardization
 # Census Data Standardization and Analysis Pipeline
 
-This project is a part of the GUVI Data Engineering course, aimed at building a comprehensive pipeline for standardizing and analyzing census data. The project utilizes Python, pandas, SQL, MongoDB, and Streamlit to achieve the objectives.
+This project is a part of the GUVI Data Engineering course, aimed at building a comprehensive pipeline for standardizing and analyzing census data. The project utilizes Python, pandas, SQL, MongoDB, and Streamlit to achieve the objectives. The main goal of this project is to clean, standardize, and analyze census data from the 2011 Census of India. This involves multiple steps such as data preprocessing, renaming columns, removing unnecessary columns, and uploading the processed data to a MySQL database. Additionally, data analysis and visualization are performed using Streamlit, providing insights into the census data.
 
 ## Table of Contents
 - [Overview](#overview)
